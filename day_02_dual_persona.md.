@@ -1,0 +1,19 @@
+# Day 2: The Dual Persona Protocol
+
+### **Objective**
+To move beyond single-response outputs by simulating a "Council of Experts." This protocol forces the AI to provide conflicting viewpoints, which helps identify blind spots and technical risks in any project.
+
+### **The Prompt Framework**
+**System Prompt / Instructions:**
+"Act as two distinct personas to audit this project: 
+1. **Persona A (The Architect):** Focus on structural integrity, scalability, and technical logic.
+2. **Persona B (The User Advocate):** Focus on simplicity, accessibility, and the human experience.
+
+Analyze the following: [Insert Project Idea]. 
+Provide a separate critique from each, then a synthesized 'Optimal Path' that balances both perspectives."
+
+### **Key Takeaway**
+Using multiple personas prevents "AI Tunnel Vision." By engineering a debate between two specialized roles, the resulting output is more balanced and resilient—essential for high-level AI operations.
+
+---
+*Part of the AI Handshake 31-Day Curriculum.*
