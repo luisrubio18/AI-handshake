@@ -1,4 +1,3 @@
-Markdown
 | Day | Focus | Status |
 | :--- | :--- | :--- |
 | 01 | Foundation & GitHub Setup | ✅ Complete |
@@ -6,4 +5,5 @@ Markdown
 | 03 | Prompt Chaining Logic | ✅ Complete |
 | 04 | Context Architecture (Guardrails) | ✅ Complete |
 | 05 | Variable Injection (Scaling) | ✅ Complete |
-| 06 | Structured Output (JSON Formatting) | ⚡ In Progress |
+| 06 | Structured Output (JSON) | ✅ Complete |
+| 07 | Iterative Refinement (Feedback Loops) | ⚡ In Progress |
